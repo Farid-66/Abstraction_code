@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\bin\Debug\net5.0\AbstractTask3.exe
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\bin\Debug\net5.0\AbstractTask3.deps.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\bin\Debug\net5.0\AbstractTask3.runtimeconfig.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\bin\Debug\net5.0\AbstractTask3.runtimeconfig.dev.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\bin\Debug\net5.0\AbstractTask3.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\bin\Debug\net5.0\ref\AbstractTask3.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\bin\Debug\net5.0\AbstractTask3.pdb
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\AbstractTask3.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\AbstractTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\AbstractTask3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\AbstractTask3.AssemblyInfo.cs
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\AbstractTask3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\AbstractTask3.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\ref\AbstractTask3.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\AbstractTask3.pdb
+C:\Users\HP\Desktop\HDD\CodeAcademy\AbstractTasks\AbstractTask3\AbstractTask3\AbstractTask3\obj\Debug\net5.0\AbstractTask3.genruntimeconfig.cache
